@@ -1,5 +1,5 @@
 # 情報セキュリティ巡回サイト
-<!-- -->
+<!--  since 2020/05/11 -->
 
 ## 公的(準公的)機関
 |No|URL|名称|
@@ -17,7 +17,7 @@
 ## 情報セキュリティ関係企業
 |No|URL|名称|カナ名称|
 |--:|:--|:--|:--|
-|  1|https://www.trendmicro.com/ja_jp/research.html , (旧) https://blog.trendmicro.co.jp/              |Trend Micro               |トレンドマイクロ        |
+|  1|https://www.trendmicro.com/ja_jp/research.html , (旧) https://blog.trendmicro.co.jp/  |Trend Micro               |トレンドマイクロ        |
 |  2|https://unit42.paloaltonetworks.jp/         |Palo Alto Networks(UNIT42)|パロアルトネットワークス|
 |  3|https://www.cybereason.co.jp/blog/          |Cybereason                |サイバーリーズン        |
 |  4|https://blog.kaspersky.co.jp/               |Kaspersky                 |カスペルスキー          |
