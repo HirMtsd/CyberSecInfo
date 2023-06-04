@@ -1,2 +1,2 @@
 # CyberSecInfo
-Syber Security Information
+Cyber Security Information
