@@ -35,11 +35,12 @@
 | 14|https://engineers.ffri.jp/                  |FFRI                      |エフエフアールアイ| 
 | 15|https://eset-info.canon-its.jp/malware_info/|Canon Marketing Japan     |キヤノンマーケティングジャパン|
 | 16|https://www.sompocybersecurity.com/column/  |Sonpo                     |SOMPOリスクマネジメント|
-| 17|https://www.proofpoint.com/jp/blog          |ProofPoint                |プルーフポイント|
-| 18|https://news.sophos.com/ja-jp/              |Sophos                    |ソフォス                |
-| 19|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
-| 20|https://blogs.vmware.com/security/          |VMware(CarbonBlack)       |旧カーボンブラック       |
-| 21|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
+|17|https://blog.itochuci.co.jp/|ITOCHUCI|伊藤忠|
+| 18|https://www.proofpoint.com/jp/blog          |ProofPoint                |プルーフポイント|
+| 19|https://news.sophos.com/ja-jp/              |Sophos                    |ソフォス                |
+| 20|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
+| 21|https://blogs.vmware.com/security/          |VMware(CarbonBlack)       |旧カーボンブラック       |
+| 22|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
 |No|URL|名称|
