@@ -18,29 +18,30 @@
 |No|URL|名称|カナ名称|
 |--:|:--|:--|:--|
 |  1|https://www.trendmicro.com/ja_jp/research.html , (旧) https://blog.trendmicro.co.jp/  |Trend Micro               |トレンドマイクロ        |
-|  2|https://unit42.paloaltonetworks.jp/         |Palo Alto Networks(UNIT42)|パロアルトネットワークス|
-|  3|https://www.cybereason.co.jp/blog/          |Cybereason                |サイバーリーズン        |
-|  4|https://blog.kaspersky.co.jp/               |Kaspersky                 |カスペルスキー          |
-|  5|https://www.mandiant.jp/resources/          |Mandiant                  |マンディエント|
-|  6|https://www.mbsd.jp/research/               |MBSD                      |三井物産セキュアディレクション|
-|  7|https://blogs.blackberry.com/ja/jp          |BlackBerry                |ブラックベリー|
-|  8|https://www.lac.co.jp/lacwatch/             |LAC                       |ラック                  |
-|   |https://devblog.lac.co.jp/                  |                          ||
-|  9|https://www.eset.com/jp/blog/               |ESET                      |イーセット              |
-| 10|https://blog.macnica.net/                   |Macnica Networks          |マクニカネットワークス| 
-|   |https://mnc.macnica.net/                    |                          ||
-| 11|https://insight-jp.nttsecurity.com/         |NTT Security              |エヌ・ティ・ティセキュリティ|
-| 12|https://jpn.nec.com/cybersecurity/blog/     |NEC                       |日本電気|
-| 13|https://blog.nflabs.jp/                     |NFLabs                    |エヌ・エフ・ラボラトリーズ|
-| 14|https://engineers.ffri.jp/                  |FFRI                      |エフエフアールアイ| 
-| 15|https://eset-info.canon-its.jp/malware_info/|Canon Marketing Japan     |キヤノンマーケティングジャパン|
-| 16|https://www.sompocybersecurity.com/column/  |Sonpo                     |SOMPOリスクマネジメント|
-|17|https://blog.itochuci.co.jp/|ITOCHUCI|伊藤忠|
-| 18|https://www.proofpoint.com/jp/blog          |ProofPoint                |プルーフポイント|
-| 19|https://news.sophos.com/ja-jp/              |Sophos                    |ソフォス                |
-| 20|https://www.crowdstrike.jp/resources/       |CrowdStrike               |クラウドストライク      |
-| 21|https://blogs.vmware.com/security/          |VMware(CarbonBlack)       |旧カーボンブラック       |
-| 22|https://www.tripwire.com/state-of-security/ |Tripwire                  |トリップワイヤー       |
+|  2|https://unit42.paloaltonetworks.jp/             |Palo Alto Networks(UNIT42)|パロアルトネットワークス|
+|  3|https://www.cybereason.co.jp/blog/              |Cybereason                |サイバーリーズン        |
+|  4|https://blog.kaspersky.co.jp/                   |Kaspersky                 |カスペルスキー          |
+|  5|https://www.mandiant.jp/resources/              |Mandiant                  |マンディエント|
+|  6|https://www.mbsd.jp/research/                   |MBSD                      |三井物産セキュアディレクション|
+|  7|https://blogs.blackberry.com/ja/jp              |BlackBerry                |ブラックベリー|
+|  8|https://www.lac.co.jp/lacwatch/                 |LAC                       |ラック                  |
+|   |https://devblog.lac.co.jp/                      |                          ||
+|  9|https://www.eset.com/jp/blog/                   |ESET                      |イーセット              |
+| 10|https://blog.macnica.net/                       |Macnica Networks          |マクニカネットワークス| 
+|   |https://mnc.macnica.net/                        |                          ||
+| 11|https://insight-jp.nttsecurity.com/             |NTT Security              |エヌ・ティ・ティセキュリティ|
+| 12|https://jpn.nec.com/cybersecurity/blog/         |NEC                       |日本電気|
+| 13|https://blog.nflabs.jp/                         |NFLabs                    |エヌ・エフ・ラボラトリーズ|
+| 14|https://engineers.ffri.jp/                      |FFRI                      |エフエフアールアイ| 
+| 15|https://eset-info.canon-its.jp/malware_info/    |Canon Marketing Japan     |キヤノンマーケティングジャパン|
+| 16|https://www.sompocybersecurity.com/column/      |Sonpo                     |SOMPOリスクマネジメント|
+| 17|https://blog.itochuci.co.jp/                    |ITOCHUCI                  |伊藤忠|
+| 18|https://www.akamai.com/ja/blog/security-research|Akamai                    |アカマイ  |
+| 19|https://www.proofpoint.com/jp/blog              |ProofPoint                |プルーフポイント|
+| 20|https://news.sophos.com/ja-jp/                  |Sophos                    |ソフォス                |
+| 21|https://www.crowdstrike.jp/resources/           |CrowdStrike               |クラウドストライク      |
+| 22|https://blogs.vmware.com/security/              |VMware(CarbonBlack)       |旧カーボンブラック       |
+| 23|https://www.tripwire.com/state-of-security/     |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
 |No|URL|名称|
