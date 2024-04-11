@@ -39,10 +39,12 @@
 | 18|https://www.akamai.com/ja/blog/security-research|Akamai                    |アカマイ  |
 | 19|https://www.proofpoint.com/jp/blog              |ProofPoint                |プルーフポイント|
 | 20|https://io.cyberdefense.jp/                     |Cyberdefense              |サイバーディフェンス研究所|
-| 21|https://news.sophos.com/ja-jp/                  |Sophos                    |ソフォス                |
-| 22|https://www.crowdstrike.jp/resources/           |CrowdStrike               |クラウドストライク      |
-| 23|https://blogs.vmware.com/security/              |VMware(CarbonBlack)       |旧カーボンブラック       |
-| 24|https://www.tripwire.com/state-of-security/     |Tripwire                  |トリップワイヤー       |
+| 21|https://eng-blog.iij.ad.jp/                     |IIJ Engineers Blog        |IIJ |
+| 22|https://wizsafe.iij.ad.jp/                      |wizSafe Security Signal   |IIJ |
+| 23|https://news.sophos.com/ja-jp/                  |Sophos                    |ソフォス                |
+| 24|https://www.crowdstrike.jp/resources/           |CrowdStrike               |クラウドストライク      |
+| 25|https://blogs.vmware.com/security/              |VMware(CarbonBlack)       |旧カーボンブラック       |
+| 26|https://www.tripwire.com/state-of-security/     |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
 |No|URL|名称|
