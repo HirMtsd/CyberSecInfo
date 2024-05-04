@@ -41,10 +41,11 @@
 | 20|https://io.cyberdefense.jp/                     |Cyberdefense              |サイバーディフェンス研究所|
 | 21|https://eng-blog.iij.ad.jp/                     |IIJ Engineers Blog        |IIJ |
 | 22|https://wizsafe.iij.ad.jp/                      |wizSafe Security Signal   |IIJ |
-| 23|https://news.sophos.com/ja-jp/                  |Sophos                    |ソフォス                |
-| 24|https://www.crowdstrike.jp/resources/           |CrowdStrike               |クラウドストライク      |
-| 25|https://blogs.vmware.com/security/              |VMware(CarbonBlack)       |旧カーボンブラック       |
-| 26|https://www.tripwire.com/state-of-security/     |Tripwire                  |トリップワイヤー       |
+| 23|https://security.sios.jp/                       |sios                      |sios|
+| 24|https://news.sophos.com/ja-jp/                  |Sophos                    |ソフォス                |
+| 25|https://www.crowdstrike.jp/resources/           |CrowdStrike               |クラウドストライク      |
+| 26|https://blogs.vmware.com/security/              |VMware(CarbonBlack)       |旧カーボンブラック       |
+| 27|https://www.tripwire.com/state-of-security/     |Tripwire                  |トリップワイヤー       |
 
 ## 注意喚起情報
 |No|URL|名称|
