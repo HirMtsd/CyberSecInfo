@@ -13,6 +13,7 @@
 |  7|https://blog.nic.ad.jp/               |一般社団法人 日本ネットワークインフォメーションセンター(JPNIC)| 
 |  8|https://www.jc3.or.jp/                |一般財団法人 日本サイバー犯罪対策センター(JC3)       | 
 |  9|https://www.jnsa.org/                 |特定非営利活動法人 日本ネットワークセキュリティ協会(JNSA)|
+| 10|https://aisi.go.jp/||
 
 ## 情報セキュリティ関係企業
 |No|URL|名称|カナ名称|
